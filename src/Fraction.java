@@ -1,3 +1,6 @@
+"""
+modif verification SSH
+"""
 public class Fraction {
     private static int NUM = 1 ;
     private static int DENOM = 1 ;
